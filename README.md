@@ -5,10 +5,10 @@ My music is a cloud music player which allows you to add and listen songs from a
 ### Features
 It allows you to:
  - Add new albums 
-   ![alt text](https://imgur.com/t57ukkK "albums")
- - Add songs to Albums
+   ![](https://imgur.com/t57ukkK)
+ - Add songs to slbums
    ![](https://imgur.com/swOZKEU)
- - Search for songs and Albums
+ - Search for albums and songs
    ![](https://imgur.com/YpxVFah)
 
 
