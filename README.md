@@ -1,15 +1,20 @@
 # My music
-![](https://imgur.com/e4gFXK0)
+![](https://imgur.com/e4gFXK0.png)
 My music is a cloud music player which allows you to add and listen songs from anywhere in the world.
 
 ### Features
 It allows you to:
  - Add new albums 
-   ![](https://imgur.com/t57ukkK)
- - Add songs to slbums
-   ![](https://imgur.com/swOZKEU)
- - Search for albums and songs
-   ![](https://imgur.com/YpxVFah)
+
+  ![album](https://imgur.com/t57ukkK.png)
+
+ -Add songs to Albums
+
+   ![](https://imgur.com/swOZKEU.png)
+
+ - Search for songs and Albums
+
+   ![](https://imgur.com/YpxVFah.png)
 
 
 ### Installing Django 
