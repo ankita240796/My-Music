@@ -8,7 +8,7 @@ It allows you to:
 
   ![album](https://imgur.com/t57ukkK.png)
 
- -Add songs to Albums
+ - Add songs to Albums
 
    ![](https://imgur.com/swOZKEU.png)
 
