@@ -19,7 +19,7 @@ It allows you to:
 
 ### Installing Django 
 
-Either install from packages by typing
+Either install from packages by typing these commands in your terminal
 ```
 sudo apt-get update
 sudo apt-get install python-django
